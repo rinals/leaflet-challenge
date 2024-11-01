@@ -22,7 +22,7 @@ The goal of this project is to develop a clear and accessible tool that allows u
 
 The USGS can leverage this map to educate the public on earthquake activity, share insights with other agencies, and enhance its funding opportunities by demonstrating the significance of its data collection.
 
-**Live Link**: [View the Earthquake Map](https://yourusername.github.io/leaflet-challenge/)
+**Live Link**: [View the Earthquake Map](https://rinals.github.io/leaflet-challenge/)
 
 ## Technology Used
 
@@ -52,4 +52,4 @@ Thanks to the following resources for their contributions to the project:
 - [Leaflet Documentation](https://leafletjs.com/) for interactive map features.
 - [USGS Earthquake Data API](https://earthquake.usgs.gov/) for real-time data.
 - [D3.js Documentation](https://d3js.org/) for data manipulation and JSON handling.
-- Chat GPT
+- [Chat GPT](https://chatgpt.com/)
