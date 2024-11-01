@@ -15,6 +15,7 @@ This project visualizes earthquake data collected by the United States Geologica
 ## Project Objective
 
 The goal of this project is to develop a clear and accessible tool that allows users to:
+
 - View earthquakes from the last seven days on an interactive map.
 - Quickly interpret earthquake magnitude by marker size and earthquake depth by color.
 - Access detailed information about each earthquake, including magnitude, location, depth, and time of occurrence.
@@ -42,11 +43,12 @@ The USGS can leverage this map to educate the public on earthquake activity, sha
 For questions or collaboration, please reach out:
 
 - Your Name - [@rinals]([https://github.com/rinals])
-- Email - rinal.shastri@outlook.com, rinaljoginshastri@gmail.com
+- Email - [rinal.shastri@outlook.com](mailto:rinal.shastri@outlook.com), [rinaljoginshastri@gmail.com](mailto:rinaljoginshastri@gmail.com)
 
 ## Acknowledgments
 
 Thanks to the following resources for their contributions to the project:
+
 - [Leaflet Documentation](https://leafletjs.com/) for interactive map features.
 - [USGS Earthquake Data API](https://earthquake.usgs.gov/) for real-time data.
 - [D3.js Documentation](https://d3js.org/) for data manipulation and JSON handling.
